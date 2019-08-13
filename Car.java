@@ -4,6 +4,10 @@ public class Car {
         //Main method is some kind of function that without main method you can't run the application.
         System.out.println("There are various car in the world");
         Car myCar = new Car();
+        String Carname= "B&W";
+        System.out.println(Carname.length());
+        String newname = Carname.replace('&','N');
+        System.out.println(newname);
         //Object is the represantation of the class.
         //A constructor in Java is a block of the code when an instance of an object is created
         int a=1;
