@@ -1,7 +1,7 @@
 package UnitTest;
 
 
-import D.ArrayListDemo;
+import Array_list.ArrayListDemo;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 

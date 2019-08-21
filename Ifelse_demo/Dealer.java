@@ -1,4 +1,4 @@
-package D;
+package Ifelse_demo;
 
 public class Dealer  {
     public void good (int price) {
