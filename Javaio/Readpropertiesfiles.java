@@ -17,9 +17,9 @@ public class Readpropertiesfiles {
     catch (IOException e){
             e.printStackTrace();
     }
-    String no= properties.getProperty("Myself");
-    String yes = properties.getProperty("AGE");
-    String msybe = properties.getProperty("Study");
+    String no= properties.getProperty("username");
+    String yes = properties.getProperty("password");
+    String msybe = properties.getProperty("url");
         System.out.println(no);
         System.out.println(yes);
         System.out.println(msybe);
